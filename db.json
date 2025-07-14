@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "nombre": "admin", "password": "1234", "rol": "bibliotecario" },
+    { "id": 2, "nombre": "juan", "password": "abcd", "rol": "visitante" }
+  ],
+  "libros": [
+    { "id": 1, "titulo": "1984", "autor": "George Orwell", "disponible": true }
+  ],
+  "reservas": []
+}
